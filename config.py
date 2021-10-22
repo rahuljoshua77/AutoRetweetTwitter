@@ -1,0 +1,5 @@
+consumerKey = "pasteconsumerkey"
+consumerSecret = "pasteconsumerSecret"
+accessToken = "pasteaccessToken"
+accessSecret = "pasteaccessSecret"
+keyword ="#hastag"
